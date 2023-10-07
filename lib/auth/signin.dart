@@ -45,7 +45,7 @@ class Signin extends StatelessWidget {
                       onPressed: () {},
                     ),
                     SizedBox(
-                      height: 10,
+                      height: 20,
                     ),
                     SignInButton(
                       Buttons.apple,
