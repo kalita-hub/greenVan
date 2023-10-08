@@ -4,7 +4,6 @@ import 'package:sign_in_button/sign_in_button.dart';
 class Signin extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    var image;
     return Scaffold(
       body: Container(
         height: double.infinity,
